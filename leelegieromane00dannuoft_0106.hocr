@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./leelegieromane00dannuoft_0106.png"; bbox 0 0 1994 2794; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 277 165 1945 318">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 277 165 1945 318">
+     <span class='ocr_line' id='line_1_1' title="bbox 277 165 1945 226; baseline -0.002 -11"><span class='ocrx_word' id='word_1_1' title='bbox 277 170 365 216; x_wconf 80' lang='lat' dir='ltr'><strong>Ma</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 395 167 719 216; x_wconf 83' lang='lat' dir='ltr'><strong>trasalimmo</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 751 166 1024 226; x_wconf 83' lang='lat' dir='ltr'>entrambi,</span> <span class='ocrx_word' id='word_1_4' title='bbox 1053 166 1319 215; x_wconf 78' lang='lat' dir='ltr'><strong>sustando:</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1355 180 1429 214; x_wconf 90' lang='lat' dir='ltr'><strong>un</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1458 168 1642 214; x_wconf 82' lang='lat' dir='ltr'><strong>tronco</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1673 165 1945 214; x_wconf 80' lang='lat' dir='ltr'><strong>abbattuto</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 343 254 1616 318; baseline -0.003 -11"><span class='ocrx_word' id='word_1_8' title='bbox 343 262 701 307; x_wconf 84' lang='lat' dir='ltr'><strong>attraversava</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 727 257 764 305; x_wconf 87' lang='lat' dir='ltr'><strong>il</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 789 271 960 318; x_wconf 85' lang='lat' dir='ltr'><strong>passo.</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 988 255 1139 316; x_wconf 88' lang='lat' dir='ltr'><strong>Muti,</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1170 257 1430 304; x_wconf 87' lang='lat' dir='ltr'><strong>sedemmo</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1457 254 1616 315; x_wconf 85' lang='lat' dir='ltr'><strong>quivi.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 292 2470 383 2503">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 292 2470 383 2503">
+     <span class='ocr_line' id='line_1_3' title="bbox 292 2470 383 2503; baseline -0.011 0"><span class='ocrx_word' id='word_1_14' title='bbox 292 2470 383 2503; x_wconf 89' lang='lat'><strong>102</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

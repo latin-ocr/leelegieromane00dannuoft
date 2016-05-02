@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./leelegieromane00dannuoft_0187.png"; bbox 0 0 1994 2794; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 274 287 1591 451">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 274 287 1591 451">
+     <span class='ocr_line' id='line_1_1' title="bbox 274 287 1534 358; baseline 0.012 -24"><span class='ocrx_word' id='word_1_1' title='bbox 274 287 502 348; x_wconf 84' lang='lat' dir='ltr'><strong>Antiqua</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 539 289 626 338; x_wconf 88' lang='lat' dir='ltr'>ille</span> <span class='ocrx_word' id='word_1_3' title='bbox 663 296 840 340; x_wconf 84' lang='lat' dir='ltr'><strong>tamen</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 877 300 1077 355; x_wconf 81' lang='lat' dir='ltr'>spectat</span> <span class='ocrx_word' id='word_1_5' title='bbox 1114 298 1349 358; x_wconf 82' lang='lat' dir='ltr'>vestigia.</span> <span class='ocrx_word' id='word_1_6' title='bbox 1394 302 1534 350; x_wconf 83' lang='lat' dir='ltr'>Silva</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 334 380 1591 451; baseline 0.012 -26"><span class='ocrx_word' id='word_1_7' title='bbox 334 380 491 438; x_wconf 86' lang='lat' dir='ltr'><strong>nuda,</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 523 381 698 442; x_wconf 86' lang='lat' dir='ltr'>silens,</span> <span class='ocrx_word' id='word_1_9' title='bbox 729 398 1014 444; x_wconf 85' lang='lat' dir='ltr'><strong>numquam</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1044 392 1250 446; x_wconf 86' lang='lat' dir='ltr'><strong>pectore</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1281 391 1427 451; x_wconf 86' lang='lat' dir='ltr'>lapsa</span> <span class='ocrx_word' id='word_1_12' title='bbox 1454 394 1591 440; x_wconf 78' lang='lat' dir='ltr'><strong>meo!</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 164 823 1682 1468">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 164 823 1682 1468">
+     <span class='ocr_line' id='line_1_3' title="bbox 164 823 1682 1468; baseline 0 1326"><span class='ocrx_word' id='word_1_13' title='bbox 164 823 1682 1468; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1641 2585 1732 2642">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1641 2585 1732 2642">
+     <span class='ocr_line' id='line_1_4' title="bbox 1641 2585 1732 2642; baseline 0.022 -13"><span class='ocrx_word' id='word_1_14' title='bbox 1641 2585 1732 2642; x_wconf 89' lang='lat'><strong>183</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

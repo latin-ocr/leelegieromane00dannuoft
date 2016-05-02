@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./leelegieromane00dannuoft_0114.png"; bbox 0 0 1994 2794; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 340 190 1882 344">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 340 190 1882 344">
+     <span class='ocr_line' id='line_1_1' title="bbox 340 190 1882 258; baseline 0.007 -22"><span class='ocrx_word' id='word_1_1' title='bbox 340 190 454 237; x_wconf 84' lang='lat' dir='ltr'>Ella</span> <span class='ocrx_word' id='word_1_2' title='bbox 479 192 716 251; x_wconf 83' lang='lat' dir='ltr'><strong>piangea.</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 744 194 808 239; x_wconf 89' lang='lat' dir='ltr'>Di</span> <span class='ocrx_word' id='word_1_4' title='bbox 837 194 1008 253; x_wconf 88' lang='lat' dir='ltr'>lunge,</span> <span class='ocrx_word' id='word_1_5' title='bbox 1040 193 1056 239; x_wconf 95' lang='lat' dir='ltr'><strong>i</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1083 195 1217 254; x_wconf 90' lang='lat' dir='ltr'><strong>colpi</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1253 195 1657 257; x_wconf 81' lang='lat' dir='ltr'>echeggiavano;</span> <span class='ocrx_word' id='word_1_8' title='bbox 1691 199 1761 258; x_wconf 88' lang='lat' dir='ltr'>gli</span> <span class='ocrx_word' id='word_1_9' title='bbox 1789 200 1882 247; x_wconf 85' lang='lat' dir='ltr'>alti</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 403 281 1430 344; baseline 0.007 -18"><span class='ocrx_word' id='word_1_10' title='bbox 403 281 568 339; x_wconf 85' lang='lat' dir='ltr'>roghi,</span> <span class='ocrx_word' id='word_1_11' title='bbox 595 282 703 328; x_wconf 91' lang='lat' dir='ltr'>d’in</span> <span class='ocrx_word' id='word_1_12' title='bbox 726 286 897 341; x_wconf 86' lang='lat' dir='ltr'><strong>torno,</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 924 283 1050 332; x_wconf 86' lang='lat' dir='ltr'><strong>lenti</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1076 284 1430 344; x_wconf 82' lang='lat' dir='ltr'><strong>fumigavano.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 350 649 1871 1292">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 350 649 1871 1292">
+     <span class='ocr_line' id='line_1_3' title="bbox 350 649 1871 1292; baseline 0 1502"><span class='ocrx_word' id='word_1_15' title='bbox 350 649 1871 1292; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 288 2466 381 2499">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 288 2466 381 2499">
+     <span class='ocr_line' id='line_1_4' title="bbox 288 2466 381 2499; baseline 0.011 -1"><span class='ocrx_word' id='word_1_16' title='bbox 288 2466 381 2499; x_wconf 88' lang='lat'>110</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
